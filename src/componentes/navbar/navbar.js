@@ -11,7 +11,7 @@ const Navbar = (props)=> {
     const menu = [Home, Productos, Contacto]
     return
         <nav className = "navbar">
-            <h1> Menú principal </h1>
+            <h1> Productos </h1>
             {/* { menu.map(label => <Button text={label}/>)} */}
 
             <Button colorText="black" funcion={handOnClick}>Home</Button>
