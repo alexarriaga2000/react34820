@@ -1,7 +1,7 @@
 // import logo from './logo.svg';
 import './App.css';
 import Navbar from './componentes/navbar/navbar';
-import ItemlistContainer from "../ItemlistContainer/ItemlistContainer"
+import ItemlistContainer from './componentes/ItemlistContainer/ItemlistContainer'
 import CarritodeCompras from './componentes/CarritodeCompras/CarritodeCompras';
 
 
