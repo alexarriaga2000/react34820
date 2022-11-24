@@ -1,5 +1,7 @@
 import "./navbar.css"
 import Button from "../Button/Button"
+import CarritodeCompras from "../CarritodeCompras/CarritodeCompras"
+
 
 
 const Navbar = (props)=> {
